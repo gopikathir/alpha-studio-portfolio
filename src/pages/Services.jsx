@@ -36,7 +36,7 @@ function Services() {
     },
     {
       icon: <Video size={45} />,
-      title: "Commercial Advertisements",
+      title: "Digital Marketing",
       description:
         "Professional photography and videography for businesses, brands and promotional campaigns.",
     },

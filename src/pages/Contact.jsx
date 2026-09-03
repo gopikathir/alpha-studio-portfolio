@@ -147,7 +147,7 @@ function Contact() {
           <div className="bg-[#111] p-8 rounded-2xl">
 
             <h2 className="text-3xl font-bold text-yellow-400 mb-8">
-              Book Your Event
+              Appointment 
             </h2>
 
             <form
